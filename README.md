@@ -73,4 +73,4 @@ Content-Type: application/json
 }
 Delete a user:
 
-DELETE http://localhost:3000/users/1
+DELETE http://localhost:3000/users/idno.(1,2,....)
